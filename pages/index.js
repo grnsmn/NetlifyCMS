@@ -8,7 +8,7 @@ export default class Home extends Component {
     return (
       <>
         <Head>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+          <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Head>
 
         <article>
